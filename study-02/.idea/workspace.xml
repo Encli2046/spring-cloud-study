@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76efb7de-2c5b-41c0-84c3-886931068cbe" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../study-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-common/src/main/java/com/encli/common/pojo/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-common/src/main/java/com/encli/common/pojo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-common/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-consumer/src/main/java/com/encli/consumer/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-consumer/src/main/java/com/encli/consumer/conf/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-consumer/src/main/java/com/encli/consumer/controller/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-consumer/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/spring-cloud-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/src/main/java/com/encli/provider/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/src/main/java/com/encli/provider/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/src/main/java/com/encli/provider/controller/ProviderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-01/spring-cloud-provider/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-service/src/main/java/com/encli/utils/WechatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-service/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-order-service/nacos-order-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-order-service/src/main/java/com/encli/consumer/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-order-service/src/main/java/com/encli/consumer/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-order-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-order-service/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/nacos-stock-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/src/main/java/com/encli/consumer/StockApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/src/main/java/com/encli/consumer/controller/StockController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/src/main/java/com/encli/consumer/controller/TestNacosConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-stock-service/src/main/resources/rebel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\repository3.5.4" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/apache-maven-3.5.4" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="2JwdvJlLf4AGM1krotyigK0hkgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/IDEA Projects Study/spring-cloud-study/study-02/nacos-stock-service/src/main/resources",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA Projects Study\spring-cloud-study\study-02\nacos-stock-service\src\main\resources" />
+      <recent name="D:\IDEA Projects Study\spring-cloud-study\study-02\nacos-stock-service\src" />
+      <recent name="D:\IDEA Projects Study\spring-cloud-study\study-02\nacos-order-servier\src" />
+      <recent name="D:\IDEA Projects Study\spring-cloud-study\study-02" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.encli.consumer.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StockApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.encli.consumer.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nacos-stock-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.encli.consumer.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="76efb7de-2c5b-41c0-84c3-886931068cbe" name="变更" comment="" />
+      <created>1672993308914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672993308914</updated>
+      <workItem from="1672993310270" duration="4611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: nacos-stock-service
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        #配置Nacos注册中心地址
+        server-addr: localhost:8848
+
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+
+
+# MyBatis配置
+mybatis:
+  # 搜索指定包别名
+  typeAliasesPackage: com.encli.provider
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  mapperLocations: classpath*:mapper/**/*Mapper.xml
+  # 加载全局的配置文件
+  configLocation: classpath:mybatis/mybatis-config.xml
